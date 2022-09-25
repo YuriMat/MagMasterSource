@@ -1,1 +1,0 @@
-MagMaster source code
